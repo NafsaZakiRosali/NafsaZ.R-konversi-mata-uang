@@ -30,3 +30,4 @@ Konsep yang digunakan:
 - ARRAY: array krus(nilai krus bulan mei 2025) dan array mata uang (menggunakan array 2D agar nama mata uang bisa langsung dipanggil sesuai menu ketika perintah hasil konversi).
    
 ## Link Video Demo
+https://youtu.be/7Yaf_E5vSog?si=ncBirxtSPmTUAogg
